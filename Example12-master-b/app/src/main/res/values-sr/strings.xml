@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activities">Domaći</string>
+    <string name="start_an_activity">Startuj aktivnost</string>
+    <string name="open_web_browser">Otvori pregledac</string>
+    <string name="open_camera">Otvori kameru</string>
+    <string name="name">Ime</string>
+    <string name="description">Opis</string>
+    <string name="category">Kategorija</string>
+    <string name="calories">Kalorije</string>
+    <string name="prise">Cena</string>
+    <string name="settings">Podesavanja</string>
+    <string name="restoran_addres">Restoran addresa</string>
+    <string name="about">Info</string>
+    <string name="ftn_homework">FTN domaci</string>
+    <string name="created_by_ljusa">Created by ljusa</string>
+    <string name="delete">Obrisi</string>
+    <string name="change">Izmeni</string>
+    <string name="add">Dodaj</string>
+    <string name="meal_category">Kategorija jela</string>
+    <string name="meal">Jelo</string>
+    <string name="meals">Jela</string>
+    <string name="refresh">Refresh</string>
+</resources>
