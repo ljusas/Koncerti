@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
                         String[] data = new String[events.size()];
 
                         for (int i=0; i<events.size();i++){
-                            data[i] = events.get(i).getVenue().getName()+":"+events.get(i).getDatetime();
+                            data[i] = events.get(i).getVenue().getName()+" : "+events.get(i).getDatetime();
                         }
 
                         Intent intent = new Intent(MainActivity.this, ResultActivity.class);
