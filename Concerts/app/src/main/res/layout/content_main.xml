@@ -8,15 +8,23 @@
     tools:context="ljusas.com.concerts.MainActivity"
     tools:showIn="@layout/activity_main">
 
+    <EditText
+        android:id="@+id/input_artist"
+        android:layout_width="250sp"
+        android:layout_height="50sp"
+        android:layout_above="@+id/button_metallica"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:background="#90A4AE" />
+
     <Button
         android:id="@+id/button_metallica"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="63dp"
+        android:layout_centerVertical="true"
         android:background="#90A4AE"
-        android:text="@string/where_is_metallica"
+        android:text="Search"
         android:textSize="16dp"
         android:textStyle="bold" />
 
